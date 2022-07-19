@@ -17,15 +17,17 @@
 **How to run project?**
 Follow steps:
 
-- Clone repo : git clone `https://github.com/sathyaraj819/Vehicle-Detection-And-Speed-Tracking.git`
-
-- cd (change directory) into vehicle-speed-check `cd vehicle-speed-check`
-
 - Create virtual environment `python -m venv venv`
 
 - Activate virtual environment `./venv/bin/activate`
 
-- Install requirements `pip install -r requirements.txt`
+- Clone repo : git clone `https://github.com/sathyaraj819/Vehicle-Detection-And-Speed-Tracking.git`
+
+- cd (change directory) into vehicle-speed-check `cd Vehicle-Detection-And-Speed-Tracking`
+
+- pip install cmake
+
+- pip install dlib
 
 - run speed_check.py script python `speed_check.py`
 
